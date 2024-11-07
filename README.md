@@ -3,13 +3,13 @@
 Amazon lex oriented product complaint chatbot using aws
 
 Terminologies:
---->Intent: An intent performs an action in response to natural language user input
---->Utterances: Spoken or typed phrases that invoke your intent
---->Slots: are input data required to fulfill the intent
---->Fulfillment: mechanism for your intent
+:arrow_right: Intent: An intent performs an action in response to natural language user input\
+:arrow_right: Utterances: Spoken or typed phrases that invoke your intent\
+:arrow_right: Slots: are input data required to fulfill the intent\
+:arrow_right: Fulfillment: mechanism for your intent\
 
 
-->Aws console :arrow_right: Amazon Lex->Get started->Create Bot
+:arrow_right: Aws console :arrow_right: Amazon Lex :arrow_right: Get started :arrow_right: Create Bot
 
 Step-1: CREATING BOT
 1)Bot Name: ComplaintManagement
