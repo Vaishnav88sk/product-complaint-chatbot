@@ -71,6 +71,12 @@ Select a slot>advanced options>toggle preview>add a card group
 give buttons
 
 
+![image](https://github.com/Vaishnav88sk/product-complaint-chatbot/blob/main/assets/Screenshot%20from%202024-11-07%2020-30-03.png)
+![image](https://github.com/Vaishnav88sk/product-complaint-chatbot/blob/main/assets/Screenshot%20from%202024-11-07%2020-30-34.png)
+![image](https://github.com/Vaishnav88sk/product-complaint-chatbot/blob/main/assets/Screenshot%20from%202024-11-07%2020-30-26.png)
+
+
+
 
 
 
