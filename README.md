@@ -63,7 +63,7 @@ Navigate back to the RegisterComplaint intent
 
 
 ## Step 5_Confirmation prompts
-<img src="https://github.com/user-attachments/assets/f2407f76-571b-49fe-b2fb-450ecca0c348" width="700" height="500" />
+<img src="https://github.com/user-attachments/assets/f2407f76-571b-49fe-b2fb-450ecca0c348" width="700" height="400" />
 
 
 ## Step-6: Enhancing user experience by giving advanced options in slots
