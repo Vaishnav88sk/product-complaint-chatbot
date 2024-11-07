@@ -34,9 +34,9 @@
 ## Step-3: Slot Types
 Intent gets fulfilled only when slots are fulfilled, slots are like placeholders for intents
 ### 1)1st slot:ProductName
-![image](https://github.com/user-attachments/assets/33fdc269-34c9-4430-8a30-e21a58f718af)
+<img src="https://github.com/user-attachments/assets/33fdc269-34c9-4430-8a30-e21a58f718af" width="700" height="400" />
 ### 2)2nd slot:ProductIssue
-![image](https://github.com/user-attachments/assets/d9956516-af3a-4114-96d2-04d3a391e74d)
+<img src="https://github.com/user-attachments/assets/d9956516-af3a-4114-96d2-04d3a391e74d" width="700" height="400" />
 
 ## Step-4: Basic settings
 Navigate back to the RegisterComplaint intent
