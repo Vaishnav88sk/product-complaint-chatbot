@@ -9,7 +9,7 @@ Terminologies:
 --->Fulfillment: mechanism for your intent
 
 
-->Aws console ->Amazon Lex->Get started->Create Bot
+->Aws console &#8594;Amazon Lex->Get started->Create Bot
 
 Step-1: CREATING BOT
 1)Bot Name: ComplaintManagement
