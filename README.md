@@ -47,7 +47,7 @@ Navigate back to the RegisterComplaint intent
 
 ####   ii)ProductName
    :arrow_right: **Data Type**: ProductName
-   :arrow_right: **Prompts**: Hey (Name), I am Azira bot and I am hapy to assist you today. Please let me know the product you are facing issue with.
+   :arrow_right: **Prompts**: Hey (Name), I am Azira bot and I am happy to assist you today. Please let me know the product you are facing issue with.
 
 ####   iii)ProductIssue
    :arrow_right: **Data Type**: ProductIssue
@@ -55,7 +55,7 @@ Navigate back to the RegisterComplaint intent
 
 ####   iv)CallBackTime
    :arrow_right: **Data Type**: AMAZON.Time
-   :arrow_right: **Prompts**: Our support executive would reach out to you within 24 hours. Could you please let us know your prefered time for the call?
+   :arrow_right: **Prompts**: Our support executive will reach out to you within 24 hours. Could you please let us know your preferred time for the call?
 
 ####   v)PhoneNumber
    :arrow_right: **Data Type**: AMAZON.PhoneNumber
@@ -63,7 +63,7 @@ Navigate back to the RegisterComplaint intent
 
 
 ## Step 5_Confirmation prompts
-<img src="https://github.com/user-attachments/assets/f2407f76-571b-49fe-b2fb-450ecca0c348" width="300" />
+<img src="https://github.com/user-attachments/assets/f2407f76-571b-49fe-b2fb-450ecca0c348" width="700" height="500" />
 
 
 ## Step-6: Enhancing user experience by giving advanced options in slots
