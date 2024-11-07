@@ -2,34 +2,34 @@
 
 Amazon lex oriented product complaint chatbot using aws
 
-Terminologies:
+Terminologies:\
 :arrow_right: Intent: An intent performs an action in response to natural language user input\
 :arrow_right: Utterances: Spoken or typed phrases that invoke your intent\
 :arrow_right: Slots: are input data required to fulfill the intent\
-:arrow_right: Fulfillment: mechanism for your intent\
+:arrow_right: Fulfillment: mechanism for your intent
 
 
 :arrow_right: Aws console :arrow_right: Amazon Lex :arrow_right: Get started :arrow_right: Create Bot
 
-Step-1: CREATING BOT
-1)Bot Name: ComplaintManagement
-2)IAM Permissions: Create a role with basic Amazon Lex permissions.
-3)Language :English
+Step-1: CREATING BOT\
+-- 1)Bot Name: ComplaintManagement\
+-- 2)IAM Permissions: Create a role with basic Amazon Lex permissions.\
+-- 3)Language: English\
 
 
-Step-2: INTENTS & UTTERANCES
-1)Intent name: RegisterComplaint
-2)Description: This bot helps in registering product complaints
-3)Utterances:
-Hi
-Hello
-Hey,I have issues with my product
-Hey,I have problem with my product
-I want to report a problem with my order
-etc...
-4)Toggle confirmation prompts to active
-5)Toggle   closing responses to active
-Save Intent
+Step-2: INTENTS & UTTERANCES\
+-- 1)Intent name: RegisterComplaint\
+-- 2)Description: This bot helps in registering product complaints\
+-- 3)Utterances:\
+Hi\
+Hello\
+Hey,I have issues with my product\
+Hey,I have problem with my product\
+I want to report a problem with my order\
+etc...\
+-- 4)Toggle confirmation prompts to active
+-- 5)Toggle   closing responses to active
+-- Save Intent
 
 Step-3: Slot Types
 Intent gets fulfilled only when slots are fulfilled, slots are like placeholders for intents
