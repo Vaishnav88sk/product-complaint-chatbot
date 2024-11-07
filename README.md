@@ -1,8 +1,8 @@
 # Product-complaint-chatBot
 
-Amazon lex oriented product complaint chatbot using aws
+## Amazon lex-oriented product complaint chatbot using AWS.
 
-Terminologies:\
+## Terminologies:\
 :arrow_right: Intent: An intent performs an action in response to natural language user input\
 :arrow_right: Utterances: Spoken or typed phrases that invoke your intent\
 :arrow_right: Slots: are input data required to fulfill the intent\
@@ -11,34 +11,34 @@ Terminologies:\
 
 :arrow_right: Aws console :arrow_right: Amazon Lex :arrow_right: Get started :arrow_right: Create Bot
 
-Step-1: CREATING BOT\
--- 1)Bot Name: ComplaintManagement\
--- 2)IAM Permissions: Create a role with basic Amazon Lex permissions.\
--- 3)Language: English\
+## Step-1: CREATING BOT\
+### 1)Bot Name: ComplaintManagement\
+### 2)IAM Permissions: Create a role with basic Amazon Lex permissions.\
+### 3)Language: English
 
 
-Step-2: INTENTS & UTTERANCES\
--- 1)Intent name: RegisterComplaint\
--- 2)Description: This bot helps in registering product complaints\
--- 3)Utterances:\
-Hi\
-Hello\
-Hey,I have issues with my product\
-Hey,I have problem with my product\
-I want to report a problem with my order\
-etc...\
--- 4)Toggle confirmation prompts to active
--- 5)Toggle   closing responses to active
--- Save Intent
+## Step-2: INTENTS & UTTERANCES\
+###  1)Intent name: RegisterComplaint\
+###  2)Description: This bot helps in registering product complaints\
+###  3)Utterances:\
+####   Hi\
+####   Hello\
+####   Hey,I have issues with my product\
+####   Hey,I have problem with my product\
+####   I want to report a problem with my order\
+####   etc...\
+###  4)Toggle confirmation prompts to active\
+###  5)Toggle   closing responses to active\
+###  Save Intent
 
-Step-3: Slot Types
+## Step-3: Slot Types
 Intent gets fulfilled only when slots are fulfilled, slots are like placeholders for intents
-1)1st slot:ProductName
+### 1)1st slot:ProductName
 ![image](https://github.com/user-attachments/assets/33fdc269-34c9-4430-8a30-e21a58f718af)
-2)2nd slot:ProductIssue
+### 2)2nd slot:ProductIssue
 ![image](https://github.com/user-attachments/assets/d9956516-af3a-4114-96d2-04d3a391e74d)
 
-Step-4: Basic settings
+## Step-4: Basic settings
 Navigate back to the RegisterComplaint intent
 1)Add slot
 i)Name 
@@ -62,11 +62,11 @@ Data Type: AMAZON.PhoneNumber
 Prompts: Please drop your phone number so that our support executive can contact you at (CallBackTime)
 
 
-Step 5_Confirmation prompts
+## Step 5_Confirmation prompts
 ![image](https://github.com/user-attachments/assets/f2407f76-571b-49fe-b2fb-450ecca0c348)
 
 
-Step-6: Enhancing user experience by giving advanced options in slots
+## Step-6: Enhancing user experience by giving advanced options in slots
 Select a slot>advanced options>toggle preview>add a card group
 give buttons
 
